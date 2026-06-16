@@ -13,7 +13,7 @@
     <header class="bg-white sticky top-0 z-50 border-b border-gray-100 shadow-sm">
         <div class="max-w-[1400px] mx-auto px-4 py-3 flex justify-between items-center">
             <div class="flex items-center space-x-4">
-                <a href="{{ route('home') }}" class="text-xs font-bold text-amber-700 uppercase tracking-wider flex items-center gap-2 hover:opacity-80 transition">
+                <a href="{{ route('main') }}" class="text-xs font-bold text-amber-700 uppercase tracking-wider flex items-center gap-2 hover:opacity-80 transition">
                     <i class="fa-solid fa-arrow-left"></i> Quay lại trang chủ
                 </a>
             </div>
